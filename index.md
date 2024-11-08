@@ -6,3 +6,7 @@
 ###### Header h6
 
 ![Imagem Octocat jumo](https://octodex.github.com/images/puddle_jumper_octodex.jpg)
+
+``` javascript
+var myVar = "Olá, mundo!";
+```
